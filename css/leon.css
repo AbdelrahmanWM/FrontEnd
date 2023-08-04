@@ -272,11 +272,7 @@ background-color: #ddd;
   margin-top:100px;
   margin-bottom:80px;
 }
-.services-content .col {
 
-    /* display:flex;
-    flex-wrap:wrap; */
-}
 .services-content .col .srv {
  display:flex;
    
